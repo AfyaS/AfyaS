@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Afya Shaikh
+# 👋 Hi, I'm Afya
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AfyaShaikh\&color=ff69b4\&style=flat-square)
 
