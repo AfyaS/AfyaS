@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Afya Shaikh
 
-![Profile Views](https://komarev.com/ghpvc/?username=AfyaShaikh\&color=pink\&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=AfyaShaikh\&color=ff69b4\&style=flat-square)
 
 🎓 High school student passionate about **coding, creativity, and continuous learning**.
 💻 I enjoy building projects with Python, web technologies, and exploring new programming languages.
